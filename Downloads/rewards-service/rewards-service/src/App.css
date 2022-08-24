@@ -1,0 +1,21 @@
+body {
+       
+  background: white;
+  margin: auto;
+  text-align: center;
+  table-layout: auto;
+  justify-items: auto;
+  }
+  
+  .customers td, .customers th {
+    border: 3px solid #ddd;
+    padding: 20px;
+  }
+  
+  .customers th {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+    background-color: turquoise;
+    color: black;
+  }
